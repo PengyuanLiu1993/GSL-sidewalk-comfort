@@ -2,7 +2,7 @@
 
 This repo is for our paper "<em>Towards Human-centric Digital Twin: Leveraging Volunteered Geographic Information and Spatio-Temporal-explicit GeoAI to Predict Human Comfort on Urban Sidewalks</em>"
 
-<img src="https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort/tree/main/Image/workflow%20(1).jpg">
+<img src="https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort/blob/main/Image/workflow%20(1).jpg">
 
 # Prerequisite Pacakages:
 
