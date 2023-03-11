@@ -1,6 +1,6 @@
 # GSL-Sidewalk
 
-This repo is for our paper "<em>Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort</em>"
+This repo is for our paper "<em>Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort</em>" published in Sustainable Cities and Society.
 
 <img src="https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort/blob/main/Image/workflow%20(1).jpg">
 
